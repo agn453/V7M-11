@@ -159,7 +159,7 @@ Pre-built disk images are available for download from
 and
 [disk-images/rd51-v7musr.dsk.gz](https://raw.githubusercontent.com/agn453/V7M-11/master/disk-images/rd51-v7musr.dsk.gz)
 if you would rather skip the fun of installing this yourself! Just download
-then and uncompress them into the same directory as the v7m.ini file.
+them and uncompress into the same directory as the v7m.ini file.
 
 I'll be setting up the system volume on rq0, and making the
 second RD51 on rq1 be the timesharing /usr volume mount point.
@@ -170,16 +170,16 @@ space).
 
 Under V7M-11, these drives correspond to
 
-SIMH	Unix device	Boot loader name
-device
-rq0	/dev/rd0	RD(0,0)
-rq1	/dev/rd1	RD(1,0)
-rq2	/dev/rx2	RX(2,0)
-rq3	/dev/rx3	RX(3,0)
-rl0	/dev/rl0	RL(0,0)
-rl1	/dev/rl1	RL(0,1)
-rl2	/dev/rl2	RL(0,2)
-rl3	/dev/rl3	RL(0,3)
+| SIMH device | Unix device | Boot loader name |
+| --- | --- | --- |
+| rq0 | /dev/rd0 | RD(0,0) |
+| rq1 | /dev/rd1 | RD(1,0) |
+| rq2 | /dev/rx2 | RX(2,0) |
+| rq3 | /dev/rx3 | RX(3,0) |
+| rl0 | /dev/rl0 | RL(0,0) |
+| rl1 | /dev/rl1 | RL(0,1) |
+| rl2 | /dev/rl2 | RL(0,2) |
+| rl3 | /dev/rl3 | RL(0,3) |
 
 ## Installation
 
