@@ -14,7 +14,7 @@ systems).
 SIMH is available at https://github.com/simh/simh
 
 Installation instructions are in the
-[INSTALL.md](https://raw.githubusercontent.com/agn453/V7M-11/master/INSTALL.md)
+[INSTALL.md](https://raw.githubusercontent.com/agn453/V7M-11/master/doc/README.md)
 file.
 
 Unix V7M morphed into Digital's Ultrix-11 for the PDP-11 family, and later
