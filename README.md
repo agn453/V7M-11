@@ -29,7 +29,7 @@ file.
 
 I have not found any documentation online for Unix V7M-11 V1.0 so the
 set-up and install here is based on my experience with later versions
-of Unix edition 7 and Ultrix-11.  Raise and issue here on GitHub if
+of Unix edition 7 and Ultrix-11.  Raise an issue here on GitHub if
 you can point me to their whereabouts.
 
 ## Acknowlgement
