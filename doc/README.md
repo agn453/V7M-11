@@ -161,7 +161,7 @@ and
 if you would rather skip the fun of installing this yourself! Just download
 them and uncompress into the same directory as the v7m.ini file.
 
-I'll be setting up the system volume on rq0, and making the
+I'll be setting up the system volume RD51 on rq0, and making the
 second RD51 on rq1 be the timesharing /usr volume mount point.
 
 This frees up space on the system volume for a small number
@@ -196,6 +196,8 @@ this is hard-coded in the device driver.
 
 For the second RD51 drive, we're using
 
+| | Start block # | Blocks |
+| --- | --- | --- |
 | /usr | 0 | 21568 |
 | unused | 21568 | 32 |
 
