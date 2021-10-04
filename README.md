@@ -11,7 +11,7 @@ This is the Micro/PDP-11 distribution - specifically for the early
 Q-bus machines like a PDP-11/23 and 11/23-PLUS.  You will not be
 able to install/sysgen this on/for a Unibus PDP-11 system.
 
-I've managed to get them installed and running using the SIMH pdp11
+I've managed to get V7M-11 installed and running using the SIMH pdp11
 simulator (which runs under a wide variety of Windows, Linux and macOS
 systems).
 
