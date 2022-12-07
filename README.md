@@ -15,7 +15,7 @@ I've managed to get V7M-11 installed and running using the SIMH pdp11
 simulator (which runs under a wide variety of Windows, Linux and macOS
 systems).
 
-SIMH is available at https://github.com/simh/simh
+SIMH is available at https://github.com/open-simh/simh
 
 Installation instructions are in the doc/README.md
 file.
