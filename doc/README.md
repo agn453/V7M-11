@@ -12,7 +12,8 @@ and DZV11 quad four-line async serial ports.
 Firstly you'll need to download the Micro/PDP11 RX50 distribution kit for
 Unix V7M-11 V1.0 from
 [bitsavers.com](http://www.bitsavers.org/bits/DEC/pdp11/floppyimages/rx50/V7M-11-V1.0_6_USR_RX50-QJ083-H3.zip)
-and set-up a running version of SIMH pdp11 from https://github.com/simh/simh
+and set-up a running version of SIMH pdp11 from
+https://github.com/open-simh/simh
 
 The SIMH pdp11 start-up file is as follows (and available as
 [v7m.ini](https://raw.githubusercontent.com/agn453/V7M-11/master/v7m.ini)
